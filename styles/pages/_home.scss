@@ -1,0 +1,17 @@
+body {
+    background-color: rgb(254, 244, 222);
+}
+
+.wrapper {
+    width: 1200px;
+    margin: 100px auto;
+    text-align: center;
+    button{
+        margin: 20px;
+    }
+}
+
+.active {
+    background-color: firebrick;
+    border-radius: 10px;
+}
